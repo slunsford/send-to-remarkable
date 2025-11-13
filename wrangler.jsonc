@@ -14,7 +14,7 @@
 	"workers_dev": false,
 	"route": {
 		"custom_domain": true,
-		"pattern": "send-to-remarkable.seanlunsford.com"
+		"pattern": "send-to-remarkable.seanl.io"
 	},
 	"workflows": [
 		{
