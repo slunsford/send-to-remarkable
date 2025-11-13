@@ -32,16 +32,10 @@
 		]
 	},
 	"migrations": [
-		{
-			"tag": "v1",
-			"new_classes": [
-				"AuthDO"
-			]
-		},
         {
-            "tag": "<v1>",
+            "tag": "v1",
             "new_sqlite_classes": [
-                "<NewDurableObjectClass>"
+                "AuthDO"
             ]
         }
 	],
