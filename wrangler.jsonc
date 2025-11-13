@@ -37,7 +37,13 @@
 			"new_classes": [
 				"AuthDO"
 			]
-		}
+		},
+        {
+            "tag": "<v1>",
+            "new_sqlite_classes": [
+                "<NewDurableObjectClass>"
+            ]
+        }
 	],
 	"r2_buckets": [
 		{
